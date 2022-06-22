@@ -33,9 +33,9 @@
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver"></property>
 		<property name="url"
-			value="jdbc:mysql://localhost:3306/moviebooking"></property>
-		<property name="username" value="root"></property>
-		<property name="password" value="root"></property>
+			value="jdbc:mysql://3.83.215.217:3306/moviebooking"></property>
+		<property name="username" value="admin"></property>
+		<property name="password" value="Mysql@1234"></property>
 	</bean>
 
 	<bean name="sessionFactory"
